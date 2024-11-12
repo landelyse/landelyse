@@ -1,6 +1,6 @@
 <a href="https://github.com/devxb/gitanimals">
   <img
-    src="https://render.gitanimals.org/lines/gyeomsony"
+    src="https://render.gitanimals.org/lines/sonny"
     width="600"
     height="120"
   />
