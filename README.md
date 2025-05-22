@@ -10,6 +10,12 @@
 />
 </a>
 
+## About Me
+
+- 구조적 사고와 체계적 설계를 중시하는 iOS 개발자
+- Swift + MVVM + Combine을 기반으로 한 앱 개발 경험
+- 사용자의 맥락에 맞춘 UI/UX 흐름 설계를 좋아합니다
+- Obsidian 기반 Second Brain 지식 시스템을 운용하며 학습하고 정리합니다
 
 ## Contact
 
@@ -32,3 +38,11 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-181717?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 -->
+
+## Stats
+<!--
+![landelyse's GitHub stats](https://github-readme-stats.vercel.app/api?username=landelyse&show_icons=true&theme=default&include_all_commits=true&count_private=true)
+
+[![landelyse's GitHub Streak](https://streak-stats.demolab.com?user=landelyse&theme=default)](https://github.com/landelyse)
+-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landelyse&layout=compact)](https://github.com/landelyse)
