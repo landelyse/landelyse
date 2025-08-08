@@ -28,12 +28,13 @@
 ![Xcode](https://img.shields.io/badge/Xcode-1C1E22?style=for-the-badge&logo=xcode&logoColor=white)
 <!-- ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) -->
 
+<!--
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-E01E5A?style=for-the-badge&logo=slack&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-<!--
+
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-181717?style=for-the-badge&logo=firebase&logoColor=FFCA28)
 -->
