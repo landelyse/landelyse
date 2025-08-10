@@ -20,10 +20,11 @@
 
 [![Tech Blog](https://img.shields.io/badge/Tech%20blog-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://landelyse.github.io)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wlsghd70@gmail.com)
+[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@landelyse/posts)
+
 <!--
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://stripe-phalange-f93.notion.site/1f9671b57ac380f0bb57fd903b14db32?pvs=4)
 -->
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@landelyse/posts)
 ## Skills
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
