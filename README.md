@@ -37,10 +37,10 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-181717?style=for-the-badge&logo=firebase&logoColor=FFCA28)
--->
+
 
 ## Stats
-<!--
+
 ![landelyse's GitHub stats](https://github-readme-stats.vercel.app/api?username=landelyse&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
 [![landelyse's GitHub Streak](https://streak-stats.demolab.com?user=landelyse&theme=default)](https://github.com/landelyse)
