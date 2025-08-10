@@ -44,5 +44,6 @@
 ![landelyse's GitHub stats](https://github-readme-stats.vercel.app/api?username=landelyse&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
 [![landelyse's GitHub Streak](https://streak-stats.demolab.com?user=landelyse&theme=default)](https://github.com/landelyse)
--->
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=landelyse&layout=compact)](https://github.com/landelyse)
+-->
